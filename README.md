@@ -28,7 +28,7 @@ Get the project fired up and start using it as a user would. Try to go through t
 
 Follow these steps for completing your project.
 
-- [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's Repository). **Please don't merge your own pull request**
+- [x] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's Repository). **Please don't merge your own pull request**
 
 ### Instructions and/or completion requirements
 
@@ -47,7 +47,7 @@ The async call being inside the component makes it hard to test the asynchronous
 
 - Note that you need `axios` in the new file
 
-This should look something like this:
+This should look something like this:.
 
 ```javascript
 // fetchShow.js
